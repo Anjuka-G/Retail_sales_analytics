@@ -99,7 +99,7 @@ Relational tables used:
 
 ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](./Retail_Sales_Dashboard.png)
+![Retail Sales Dashboard](./Retail_sales_analytics/Retail _Sales_Dashboard.png)
 
 ---
 
