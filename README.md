@@ -99,7 +99,9 @@ Relational tables used:
 
 ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](Retail_sales_analytics/Retail _Sales_Dashboard.png)
+![Retail Sales Dashboard](./Retail_Sales_Dashboard.png)
+
+🔗 [**View Full Dashboard on Tableau Public**](https://public.tableau.com/views/RetailSalesAnalytics_17466955110370/RETAILSALESDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -125,7 +127,7 @@ The project simulates real-time retail business intelligence—offering data-bac
 
 ## 📌 Tags
 
-`Excel` `SQL` `Python` `EDA` `Tableau` `KMeans` `Data Cleaning` `Retail Analytics` `Customer Segmentation` `Business Intelligence`
+`Excel` `SQL` `EDA` `Tableau` `Data Cleaning` `Retail Analytics` `Customer Segmentation` `Business Intelligence`
 
 ---
 
