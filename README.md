@@ -141,6 +141,6 @@ Project completed as part of the GUVI Business Analytics Course.
 
 **Anjuka G**  
 💼 Business Analyst
-📫 [LinkedIn](https://www.linkedin.com/in/your-link) | 📧 anjukarenya@outlook.com  
+📫 [LinkedIn](https://www.linkedin.com/in/anjuka-gunasekaran/) | 📧 anjukarenya@outlook.com  
 
 ---
