@@ -99,7 +99,7 @@ Relational tables used:
 
 ## 📊 Dashboard Preview
 
-> ⚠️ *Add screenshots of your Power BI dashboard here once hosted or exported as images*  
+> ![Retail Sales Dashboard](./NETFLIX.png)
 
 ---
 
@@ -138,7 +138,7 @@ Project completed as part of the GUVI Business Analytics Course.
 ## 📬 Contact
 
 **Anjuka G**  
-💼 Business Analyst | Executive MBA 
+💼 Business Analyst
 📫 [LinkedIn](https://www.linkedin.com/in/your-link) | 📧 anjukarenya@outlook.com  
 
 ---
