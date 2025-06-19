@@ -99,7 +99,7 @@ Relational tables used:
 
 ## 📊 Dashboard Preview
 
-> ![Retail Sales Dashboard](./NETFLIX.png)
+> ![Retail Sales Dashboard](./Retail Sales Analytics Dashboard.png)
 
 ---
 
