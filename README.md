@@ -1,6 +1,6 @@
 # 🛍️ Retail Sales Analytics
 
-**Capstone Project | GUVI | Tools: Excel • SQL • Python • Tableau**
+**Tools: Excel • SQL • Python • Tableau**
 
 ---
 
